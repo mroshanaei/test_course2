@@ -1,3 +1,3 @@
 # repo_demo2
 
-This is the second demo. 
+This is the second demo for learning.
